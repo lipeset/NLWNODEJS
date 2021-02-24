@@ -1,0 +1,11 @@
+{
+  "name": "NLWNODEJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lipeset/NLWNODEJS.git",
+  "author": "Felipe <felipea.lucas@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
